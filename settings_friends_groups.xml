@@ -1,0 +1,1264 @@
+<llsd>
+    <map>
+    <key>Chaos</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0.7578125</real>
+                <real>0</real>
+                <real>2.7101486921310425e-007</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>00d00dd6-4968-42a7-ac1d-caabd2aed483</key>
+                <string />
+            <key>02173417-bef4-4b37-b3ba-a3952d5ba8f9</key>
+                <string />
+            <key>0dbee3fa-5686-4a8d-a320-8230b0eeaa1e</key>
+                <string />
+            <key>10186c03-3e64-4eca-a464-0fe0c0164e92</key>
+                <string />
+            <key>126dc6e6-a39e-4088-a570-7d848a57dbb3</key>
+                <string />
+            <key>1a47aac5-71c8-4e71-929f-44bf5ab824f8</key>
+                <string />
+            <key>1c78addb-f7a1-4395-b3c8-879dddc974f9</key>
+                <string />
+            <key>21f65ac8-ffee-4488-b3ea-a17f86e473b5</key>
+                <string />
+            <key>23df2a4f-ae7e-44f4-a32c-28e8fb5049b9</key>
+                <string />
+            <key>25520937-360b-4b16-8159-5bfce98ed1f8</key>
+                <string />
+            <key>259dcfd8-3094-4a6a-bfc2-0559816b6e38</key>
+                <string />
+            <key>26af73f9-f780-4dda-afd4-5b16ab1e4e96</key>
+                <string />
+            <key>293b99f9-6cb8-4cff-9800-b795aefaf1d7</key>
+                <string />
+            <key>2aa5c943-d6ce-4e4d-8332-846d3dd2ae4c</key>
+                <string />
+            <key>2b9e80e2-4931-4a63-b07d-1c066fa82392</key>
+                <string />
+            <key>2ec3369f-d579-4173-8dd8-3001c9f5f0cd</key>
+                <string />
+            <key>2fb4a9ee-2420-4924-a8a1-461e43b1c027</key>
+                <string />
+            <key>3510e222-3bff-4fb1-a06e-5e8d764f3a09</key>
+                <string />
+            <key>38c21618-600c-4dc5-a925-caec3a10b9fc</key>
+                <string />
+            <key>3e5d5d13-819e-4cef-8735-ff916ee1c9f5</key>
+                <string />
+            <key>4372ad1a-e869-4da4-957e-bed2e78fc024</key>
+                <string />
+            <key>447a1157-b294-47a3-a73b-82dccd8d204f</key>
+                <string />
+            <key>45632f3d-e1d3-4957-a0d6-dcba290a9948</key>
+                <string />
+            <key>4840e8e1-f34e-4cd6-bc4d-a170f0f7623f</key>
+                <string />
+            <key>575b806c-f3ec-4123-99aa-f47efeaf45c6</key>
+                <string />
+            <key>57b45430-4ef1-4dad-b3ab-4f4e0a597021</key>
+                <string />
+            <key>5aa2c44c-e567-4670-a834-11358bbaa10b</key>
+                <string />
+            <key>5d9b8f4b-0e15-4e56-a3e8-e2184d62c703</key>
+                <string />
+            <key>5ebfa3a0-353b-4dac-8d02-f8f66f6981b8</key>
+                <string />
+            <key>5fa66282-0768-4d8d-9f2c-934857e4c5bb</key>
+                <string />
+            <key>63eb8a43-d523-4a57-8e24-a3e4ec70a254</key>
+                <string />
+            <key>64e1a61a-7463-48bb-b7a3-9c6da8742b4c</key>
+                <string />
+            <key>67618130-704e-4fe7-9d0c-c1ecc367f6a1</key>
+                <string />
+            <key>684c70a4-cc38-436b-9b5b-3c32a4e521dd</key>
+                <string />
+            <key>6da36681-434d-48df-be9c-039ad0b85b76</key>
+                <string />
+            <key>6e4ebc61-33a7-47d1-a7b3-1cb54c151755</key>
+                <string />
+            <key>6e8ca91b-ecf6-4a9a-95a6-41c201937c79</key>
+                <string />
+            <key>77f55f8f-43f2-48f0-b9d6-6a5903c3292f</key>
+                <string />
+            <key>7aebdea5-c1f2-483b-b75c-a87d0fed6ed6</key>
+                <string />
+            <key>7b81421b-a92d-4964-aacd-407929bd019d</key>
+                <string />
+            <key>7d5ee54f-47d1-4183-9dff-02f73848029e</key>
+                <string />
+            <key>8193ed95-5514-45e9-83a2-51bec55057d0</key>
+                <string />
+            <key>82a665cf-f53b-4c93-87b8-9d0c07c4dbdb</key>
+                <string />
+            <key>82e41eb5-3866-486f-b67c-df9c13e7580a</key>
+                <string />
+            <key>83dd402c-15ad-4394-b5d9-d14446ad53a1</key>
+                <string />
+            <key>864bb170-4d55-4d73-a6fc-701c62a8093d</key>
+                <string />
+            <key>87e551ea-9245-4280-bfe3-9fcfd1e62bb4</key>
+                <string />
+            <key>8e0f7eae-1f1c-440d-8044-8a34c302c73f</key>
+                <string />
+            <key>8fc1718b-034d-4d86-87a8-5286cc04eca8</key>
+                <string />
+            <key>9253fd1d-4fc2-4911-8686-68e887bc50a6</key>
+                <string />
+            <key>9320628c-7694-40c5-a761-cf75f954df4e</key>
+                <string />
+            <key>962e64fc-8c70-43f0-b03f-baa0f9845a33</key>
+                <string />
+            <key>988d1055-d63f-4cce-8994-e326b74aee32</key>
+                <string />
+            <key>9ef2af99-d911-4b7a-abef-6842929f4405</key>
+                <string />
+            <key>a0596307-b487-42d8-a393-f0a4add698d8</key>
+                <string />
+            <key>a3bd17c8-7e81-4843-8983-29c4a112e254</key>
+                <string />
+            <key>a67af22e-5701-4a44-9d91-62f2f028e804</key>
+                <string />
+            <key>ab43fd95-ed1e-4674-88f6-d83f3c99e57c</key>
+                <string />
+            <key>add15169-4c80-4578-99b2-44054d0462a1</key>
+                <string />
+            <key>aea4eeaa-9975-4f3a-a1f5-8ac0e19d2059</key>
+                <string />
+            <key>af01cde6-b5e6-4759-8021-38f647c0d891</key>
+                <string />
+            <key>b486d0f2-6009-4baa-852e-0ff8b6793d31</key>
+                <string />
+            <key>bdad288c-1b17-47d7-aa2b-422b580e496c</key>
+                <string />
+            <key>c07990bf-db2f-4fdb-a1b4-f33950a55b96</key>
+                <string />
+            <key>c836abbf-6b58-4ffa-8365-4724db36bc51</key>
+                <string />
+            <key>c96080df-d14c-47ea-8ac9-7d88085207bf</key>
+                <string />
+            <key>c9e2bf94-c5d7-4958-8de3-6f35d028c17d</key>
+                <string />
+            <key>ca4bc790-193f-4932-8a1b-28d2305580af</key>
+                <string />
+            <key>cb1ed5d7-9a4d-4c5c-8c7c-a13f80856aa6</key>
+                <string />
+            <key>cbd75e90-54f6-4851-a330-01b2a51b5f49</key>
+                <string />
+            <key>d102efdb-3a6d-437f-a7dc-19f271a4171e</key>
+                <string />
+            <key>d21b9103-48cd-45db-8f5f-45ce2d32aa4d</key>
+                <string />
+            <key>d3e418fe-9e19-4d88-a45c-5bded2c110c1</key>
+                <string />
+            <key>dd13fa5a-0cf9-4625-a669-b0b4d1ee4dbe</key>
+                <string />
+            <key>e1e0b1b4-cb58-4a33-8227-6e7040b6b3a3</key>
+                <string />
+            <key>e280f9ce-edbc-4f46-875f-e8ca7363f8af</key>
+                <string />
+            <key>e6b100e8-db62-4a57-8f27-a328160d8424</key>
+                <string />
+            <key>e8586323-5890-476d-8d29-9e1a4aaf2f71</key>
+                <string />
+            <key>ed721010-aef0-452e-a604-40996d5ec85c</key>
+                <string />
+            <key>edd46c6d-7c7c-435f-b754-cfcc412bcb92</key>
+                <string />
+            <key>f141802c-8079-4656-8695-7f87f064e5af</key>
+                <string />
+            <key>f57f3080-4b61-4dee-a109-607ce05f687e</key>
+                <string />
+            <key>fdb564fc-9350-466b-9206-4d2451cd3788</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>DKoK</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>1</real>
+                <real>0.5</real>
+                <real>0</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>0c8064c9-deee-4be2-a0a4-8be2a7109e47</key>
+                <string />
+            <key>1517cde5-2201-494b-bdae-3a2b01de4cfb</key>
+                <string />
+            <key>1a894c81-608a-4488-872d-0d44965facfe</key>
+                <string />
+            <key>2105bc16-8153-4deb-b0a9-b6a053bd9ed7</key>
+                <string />
+            <key>316cf290-995e-4f24-b7b3-6dc3b1678240</key>
+                <string />
+            <key>6ce2321f-482d-4c5a-8e18-ddf2bec79530</key>
+                <string />
+            <key>7ed1247a-b9e4-4682-809b-fb5e8947a5de</key>
+                <string />
+            <key>80ddfce7-9e30-40b2-95f3-e510f8541966</key>
+                <string />
+            <key>982564db-d71e-48f6-b3d8-de01e065aecc</key>
+                <string />
+            <key>aec513b4-0597-4489-8745-78ab6b862406</key>
+                <string />
+            <key>ef1b52d3-6867-4efb-9e6a-68fde672d653</key>
+                <string />
+            <key>f122e92a-00f2-4149-a153-2203bf0de094</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>Epsilon</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0.56078433990478516</real>
+                <real>0.85490202903747559</real>
+                <real>1</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>01b2737c-d587-4429-a258-bec4ea59a4da</key>
+                <string />
+            <key>0583ecad-32ac-4c91-82f2-5c974f033c7d</key>
+                <string />
+            <key>07ebc538-fc5a-48c5-83c1-d8d76245db4b</key>
+                <string />
+            <key>0c9c31c3-228a-4032-adbd-aee9c5eaeb49</key>
+                <string />
+            <key>0d92339b-31c8-4668-a5b3-9c9c4448d66d</key>
+                <string />
+            <key>1212f432-f39b-4ec9-a18b-e5108841ad17</key>
+                <string />
+            <key>1e3279fa-5672-4a0e-822c-9e3b00c1470f</key>
+                <string />
+            <key>2567634b-30be-462d-8a84-27d6089f22a0</key>
+                <string />
+            <key>266d3c29-b73a-42fc-8da2-cc81c75872ef</key>
+                <string />
+            <key>26cb70ac-2d1a-48f1-b39a-4ab550a787d4</key>
+                <string />
+            <key>4269fb1b-6102-45a0-ae77-7b28c5615e40</key>
+                <string />
+            <key>42db0832-7463-48eb-8a0b-b00360203ae3</key>
+                <string />
+            <key>487ad83b-0bff-40d4-ad08-78f05ea5a1a1</key>
+                <string />
+            <key>4f2eafe4-f9fb-43d6-a54f-3d8e4bdca023</key>
+                <string />
+            <key>62330e00-5d86-4fd1-a1db-b4ec9aee0d69</key>
+                <string />
+            <key>64b9e7d0-9822-4145-9537-ab56b90ea854</key>
+                <string />
+            <key>692b5de9-a87d-4ced-9560-871887079998</key>
+                <string />
+            <key>6f65b271-85e6-4158-ae1b-c1d8a99cbc3b</key>
+                <string />
+            <key>711a5196-ae94-421a-b25b-ca76d56abd9d</key>
+                <string />
+            <key>7937703c-9919-40cb-934b-49127b8bd34b</key>
+                <string />
+            <key>7bda6f1e-8a6f-42cb-8e84-1dee116b93f9</key>
+                <string />
+            <key>846c8daf-60d9-4922-82ef-181cab592de7</key>
+                <string />
+            <key>884760ae-ffc4-4eb7-9099-07b55400c71c</key>
+                <string />
+            <key>9033feb2-b415-4858-b7c7-c2107218f6c1</key>
+                <string />
+            <key>94b609c7-1e2f-401e-a020-15014832856a</key>
+                <string />
+            <key>95ea177f-f068-493d-b28b-474a6fac6416</key>
+                <string />
+            <key>9a1c37ba-5afa-4291-a0d6-cdf294041cdd</key>
+                <string />
+            <key>9a20d084-9733-44c8-9acd-24b54593b8cd</key>
+                <string />
+            <key>9dea95a0-fcdc-4cc5-8fd7-327ed1448963</key>
+                <string />
+            <key>9fc94859-5adf-4dc8-a743-95deb9163e3e</key>
+                <string />
+            <key>a284d4de-cc80-404f-b3ad-0a93d8d54318</key>
+                <string />
+            <key>a7a24abc-9cd6-4d0d-8921-6409adb93e33</key>
+                <string />
+            <key>aabdd9cd-a439-4011-88b9-a7330cd88cad</key>
+                <string />
+            <key>ab99801c-5605-42a0-acb2-93f26a3f036b</key>
+                <string />
+            <key>ad0b4d88-b0d1-49b2-97b4-d7255ee1753b</key>
+                <string />
+            <key>bf800da4-d3cc-4dd0-8890-636398ba3fc8</key>
+                <string />
+            <key>c8922054-4442-4e93-adb4-cdff34cd83d1</key>
+                <string />
+            <key>cfcbcb26-67e7-4e75-886f-a0776b18a312</key>
+                <string />
+            <key>d173fd50-6d10-4600-8e1e-f053f80f6bb9</key>
+                <string />
+            <key>d9bdd191-e145-4597-a19f-1eab38ce678e</key>
+                <string />
+            <key>dbbd6099-f5f9-4bef-9ad6-2401d4e4cc10</key>
+                <string />
+            <key>dd4f9bab-e213-43c6-80b0-7bd42c26b94e</key>
+                <string />
+            <key>e1cc2ad5-a3c8-4209-971a-7ada2e3b3d3e</key>
+                <string />
+            <key>e73fcbe7-f62b-44c8-8140-c942ce10f680</key>
+                <string />
+            <key>e93f9211-f1a3-4fd0-8cb2-987014db15ce</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>Grand Fed</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0</real>
+                <real>0</real>
+                <real>1</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>029d0120-7625-4699-8427-4ec55c6fdaa3</key>
+                <string />
+            <key>031ebaed-a4d3-4f1c-9879-43572dc04821</key>
+                <string />
+            <key>068ea321-e30f-4543-96f5-4d9165382d19</key>
+                <string />
+            <key>0d2439e5-5381-44eb-8eb7-59b6d7424ee9</key>
+                <string />
+            <key>0d59276a-3229-4c84-a1a6-4d0e801baf57</key>
+                <string />
+            <key>1323cd2d-c678-470b-9666-61e761643361</key>
+                <string />
+            <key>13fde21b-3c79-4756-8f30-129b4e5c25b1</key>
+                <string />
+            <key>2061409b-0767-42ac-880d-ead36c51710b</key>
+                <string />
+            <key>24898d2d-d6c0-438b-88cb-496eb2aef3b5</key>
+                <string />
+            <key>24d2dba5-e0e9-42f4-99c8-508329496dde</key>
+                <string />
+            <key>252f23d5-8c06-48b7-8a25-7d8c869f9814</key>
+                <string />
+            <key>282d918b-b15a-440e-8766-8f840f5befc1</key>
+                <string />
+            <key>318fdad0-4939-4daa-809f-0225ec4f73ce</key>
+                <string />
+            <key>33d7d63d-0d72-4185-aa83-53722d6a5ea8</key>
+                <string />
+            <key>3522d06c-95fc-4753-9a2d-7dcf7628b577</key>
+                <string />
+            <key>373d7cbb-c52b-4c3a-9a91-ddd355fa21ca</key>
+                <string />
+            <key>37ae4c3a-c268-4665-866f-9ae720ef6383</key>
+                <string />
+            <key>3a51c6e2-34d5-44f4-b5f0-0875fd23c944</key>
+                <string />
+            <key>3dfd80f7-39de-47bc-a2ce-b373a31103e2</key>
+                <string />
+            <key>3e232020-0d87-42c0-835e-212fb4cdfcc1</key>
+                <string />
+            <key>422d833f-dca3-40b3-9649-7d3d545e4879</key>
+                <string />
+            <key>442753ad-3677-42d9-90d8-9dc3cf4a2696</key>
+                <string />
+            <key>44b0de1c-5279-49dd-a0e1-8bcb85038e4d</key>
+                <string />
+            <key>475afe37-68ec-4b57-9d56-98da7ef5e1b4</key>
+                <string />
+            <key>4cbc713a-f30e-4ce4-950d-721f5d31f891</key>
+                <string />
+            <key>4d695a29-1175-4ceb-b7ba-99d9e92831f4</key>
+                <string />
+            <key>565c34dc-8d87-4b0b-98ad-39d3fd697996</key>
+                <string />
+            <key>574f36ba-985b-4739-8d5d-6a0494017fd7</key>
+                <string />
+            <key>61a3f934-5fe9-4e5a-a1c5-add8786592a9</key>
+                <string />
+            <key>64d8ec97-d082-4e77-8ace-a28d685d2e4a</key>
+                <string />
+            <key>66d0c014-8040-480e-82cd-233d57c6c473</key>
+                <string />
+            <key>699826d1-2eb5-41cd-912f-bf16cde93d74</key>
+                <string />
+            <key>6b54e31f-dc20-4128-b61f-0c85d8cb0d30</key>
+                <string />
+            <key>70a5c023-c1a5-48b0-b147-d1d25a6b1fdb</key>
+                <string />
+            <key>7b50a85d-5eb1-44e1-8fd4-d720876d3c2f</key>
+                <string />
+            <key>7cd6c266-4f8b-40a8-91bd-905cc184bf62</key>
+                <string />
+            <key>86809634-9c14-4a52-b172-2472372f5ab8</key>
+                <string />
+            <key>876d2e4c-396d-4d9d-b173-85cdc8456499</key>
+                <string />
+            <key>89ba820f-0b55-48a4-b79e-3705255e6eb7</key>
+                <string />
+            <key>8a667f16-5185-4607-bb91-f581dd71886d</key>
+                <string />
+            <key>8b09c7cd-ef06-4596-984f-be644443c6eb</key>
+                <string />
+            <key>957f7de6-bacc-4948-a803-f2f0fc47eaa5</key>
+                <string />
+            <key>9c55bfa1-f134-4051-98ee-ea62487dd634</key>
+                <string />
+            <key>9ecd046d-584f-401a-8d25-1d707ab79616</key>
+                <string />
+            <key>9f40067b-3217-4b6b-a4cb-7e59582c3576</key>
+                <string />
+            <key>a218e5bd-8d96-4468-85db-a84667c91e67</key>
+                <string />
+            <key>a6c53bda-bce2-47c0-a5a8-ddbf91dcdfc3</key>
+                <string />
+            <key>aca9d9ac-29ed-44ea-9550-a7869dc7e765</key>
+                <string />
+            <key>b00fa924-8704-4489-8362-533dd0179342</key>
+                <string />
+            <key>b2bebb21-ff7b-42ff-99f5-54a44fa41ba8</key>
+                <string />
+            <key>b35a3ac6-6a7a-4a40-858a-5fc050415aa1</key>
+                <string />
+            <key>b4d7c2c7-f02e-4ed5-9c05-10948331704b</key>
+                <string />
+            <key>ba8f64e1-8d1b-4ee0-aaaf-16952455097d</key>
+                <string />
+            <key>c42206ae-ea6a-4fe6-9d11-d8b856cedc07</key>
+                <string />
+            <key>c78bdedd-145d-4ad6-810e-3116017a9639</key>
+                <string />
+            <key>cb3a395c-fb0d-474b-bc72-ecfb7e1e3e75</key>
+                <string />
+            <key>cf905995-8a72-45ef-85ad-e35ca8620f96</key>
+                <string />
+            <key>d8ff8dde-5862-4305-836b-13e62db08672</key>
+                <string />
+            <key>d90f29bc-a275-4e4e-9b97-ec81f35c0c65</key>
+                <string />
+            <key>dec13c48-b46e-4583-a886-4fa0877c5064</key>
+                <string />
+            <key>e257fa7f-ac6a-4996-8305-41b3d29bfafc</key>
+                <string />
+            <key>e52799bd-6cea-49f2-8fae-7a0dc7174e8c</key>
+                <string />
+            <key>eeac1c1b-ea18-4083-885b-6a3f53623d9f</key>
+                <string />
+            <key>f937247f-7a86-47c6-bb39-beca296d4475</key>
+                <string />
+            <key>fa3de285-d9e7-480b-a815-3f5249ae5681</key>
+                <string />
+            <key>fa4388b5-d120-4552-9d01-8518d4d44e72</key>
+                <string />
+            <key>ff8bae09-991b-4e26-8a0b-c835e66a126f</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>Ne&apos;tra</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0.23507687449455261</real>
+                <real>0.4091796875</real>
+                <real>0.0908203125</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>00b62959-33dd-4f30-9e7e-5481eb970f5e</key>
+                <string />
+            <key>00dcf940-a49f-4887-9c97-0055f4c620b2</key>
+                <string />
+            <key>18368b0c-df19-49e4-9414-b965363aec96</key>
+                <string />
+            <key>19986368-3591-4b90-91ac-9a7e80ecb6af</key>
+                <string />
+            <key>22decd3d-83aa-4271-97bb-39f10a1d227c</key>
+                <string />
+            <key>4257394b-61f5-4260-aca6-02855c856ae5</key>
+                <string />
+            <key>514326e3-46e3-49de-b920-e44767aace2c</key>
+                <string />
+            <key>5158a078-9669-4a1d-82b0-ee702919f612</key>
+                <string />
+            <key>51725d02-670e-4701-b380-929d252feb6c</key>
+                <string />
+            <key>592e8f17-b160-4969-b17f-eed2eff10ee3</key>
+                <string />
+            <key>74642afc-8f6c-4a1e-9c26-719c64d34af1</key>
+                <string />
+            <key>7be4ffa4-e03e-4e5b-a685-a4676ab515ff</key>
+                <string />
+            <key>86158b80-c6be-42cf-9f81-d9c94e525ac8</key>
+                <string />
+            <key>86e6df7d-557e-46c4-bd88-bd13eb89d01b</key>
+                <string />
+            <key>89137c88-ecb0-44b4-a27c-d7e1fe35d7fa</key>
+                <string />
+            <key>9f4e8f2a-3b32-4e87-ae8f-1666bf9fa425</key>
+                <string />
+            <key>af35426a-5459-4008-a088-4e13d631bbd1</key>
+                <string />
+            <key>b6afc173-ad90-44a4-894c-eda306d98116</key>
+                <string />
+            <key>c1ad4b60-c5be-42be-9d7b-3bf0bd0e38a6</key>
+                <string />
+            <key>e060852b-23cd-4d69-b99d-7707c4e2a0d1</key>
+                <string />
+            <key>f3534594-2c39-4795-8e92-55c26b62aeba</key>
+                <string />
+            <key>f655b6eb-28f1-4702-8bd2-ed7d4dbede77</key>
+                <string />
+            <key>ff1877e6-57c7-42c9-8065-6ea5a7933280</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>Silver Hawks</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0.75</real>
+                <real>0.75</real>
+                <real>0.75</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>01ed8e98-ba4d-41bf-89f3-2d15ed799170</key>
+                <string />
+            <key>05c7ea54-1099-4987-8e31-e7f03657e978</key>
+                <string />
+            <key>08927c0b-b082-4fc6-b389-503a7d3aabaa</key>
+                <string />
+            <key>0b9831c1-2863-4481-a091-e7722c4a4529</key>
+                <string />
+            <key>0cc876f0-902c-439b-8d6e-024bf08a1492</key>
+                <string />
+            <key>18b5de93-b1f3-4623-afd1-e655303ac823</key>
+                <string />
+            <key>28197790-a43b-45ed-b252-7a596e6c4f5b</key>
+                <string />
+            <key>3601193c-4efc-45f3-a9a8-759f3261b211</key>
+                <string />
+            <key>3dbe6b1b-6d9b-4cd2-8b7f-a87d6334396c</key>
+                <string />
+            <key>42608f15-550f-46dc-b564-92b7de1a8cb7</key>
+                <string />
+            <key>50d157aa-b1a4-4064-993a-f5190e5d4cce</key>
+                <string />
+            <key>57c7ac97-7a97-440e-ac37-1ee5448099b5</key>
+                <string />
+            <key>599c4d89-975f-4883-9092-721e3979f1fc</key>
+                <string />
+            <key>5f902fd2-82fe-46ea-a0e9-9591da450498</key>
+                <string />
+            <key>63abd2cb-bbdb-4f99-8ffe-185e471458c9</key>
+                <string />
+            <key>6a1cd81d-609d-4204-98a0-a322cabe9c3e</key>
+                <string />
+            <key>70132681-2c9f-415b-a2ce-c9d2884087bb</key>
+                <string />
+            <key>82f553c1-a899-49a5-acf0-923f49a98fb7</key>
+                <string />
+            <key>8409bd07-baa8-4f8b-86a9-fbefc5da152c</key>
+                <string />
+            <key>8426f433-38fd-4dde-b360-a5707b9157fc</key>
+                <string />
+            <key>923616ff-ea3c-4dc6-aa84-289dbf676663</key>
+                <string />
+            <key>9928e6f6-10b0-4ce6-a5fc-daf406ed67a5</key>
+                <string />
+            <key>9e64a9bd-1224-4493-b21f-767c046b77ca</key>
+                <string />
+            <key>a0b76050-2af2-4cf7-84d5-17b5a8e92aba</key>
+                <string />
+            <key>a17ac877-b462-4460-961f-53a7996b5c0b</key>
+                <string />
+            <key>a835b1e8-d5f5-469d-a010-92e06e5237ea</key>
+                <string />
+            <key>abe0a03f-cb16-4eaf-a707-7d38589088b0</key>
+                <string />
+            <key>b1e052bc-a4e1-46c6-8d8d-5a9cc8e08bb2</key>
+                <string />
+            <key>ba314cf0-562d-4d31-8281-ba6a7920be75</key>
+                <string />
+            <key>be609e90-d6f4-43c5-aab9-b5268a86abb7</key>
+                <string />
+            <key>c1f1be9a-bff3-4d51-b038-f5a41e6ee57e</key>
+                <string />
+            <key>c20ecd04-aa32-4e82-b302-3e3acdf3ad84</key>
+                <string />
+            <key>c3afaabd-d457-4659-a471-d8d4245e18a6</key>
+                <string />
+            <key>c5f366df-c57c-4369-841f-d045870789cf</key>
+                <string />
+            <key>cd527b05-0d30-46a7-b437-ca9e4cdad39a</key>
+                <string />
+            <key>d0a342ec-16a6-400c-8c9c-24df1bee04c0</key>
+                <string />
+            <key>d4f7b518-ad6f-48a3-a24b-11fe3d3d5404</key>
+                <string />
+            <key>df124e28-7239-4cd4-a885-68411112f3e5</key>
+                <string />
+            <key>ec5025ee-6d9a-4a8f-9a38-2d60f7773633</key>
+                <string />
+            <key>ec565ae9-25d2-4d64-9141-44e3f2edb55f</key>
+                <string />
+            <key>f5308347-44c6-49fa-92ba-256962857a2e</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>Tkoi</key>
+        <map>
+        <key>color</key>
+            <array>
+                <real>0.5</real>
+                <real>0</real>
+                <real>1</real>
+                <real>1</real>
+            </array>
+        <key>friends</key>
+            <map>
+            <key>10698e8c-0dcf-4e34-bf06-9d8695357178</key>
+                <string />
+            <key>15d516cc-bc9b-46db-98b4-043524674c6a</key>
+                <string />
+            <key>193f0168-9c90-4e57-9466-83d9057233c5</key>
+                <string />
+            <key>2f11957b-1174-42a5-b941-c2f6f4456e15</key>
+                <string />
+            <key>327ece58-a640-4154-934d-858a8cbbc41f</key>
+                <string />
+            <key>34527f0b-0a7c-46ba-8f40-94e4ab02f0b6</key>
+                <string />
+            <key>3c86a144-5fa8-4d3f-a0b6-7939d995d2e8</key>
+                <string />
+            <key>3ec48b51-d29f-4fce-8a71-1fa4836e9fa8</key>
+                <string />
+            <key>40a0b007-30ab-4660-b716-073d97743767</key>
+                <string />
+            <key>410e0d3f-7ede-45d1-8abc-aeda4411b4b7</key>
+                <string />
+            <key>421ba681-0de4-4a46-8911-37f55c11a946</key>
+                <string />
+            <key>56765434-3811-447b-9d07-b10e5c97610d</key>
+                <string />
+            <key>571de28b-fc41-4038-b397-d616cbe7b532</key>
+                <string />
+            <key>6c2a8cc4-4119-42f3-bb30-dd547915d883</key>
+                <string />
+            <key>6f9d5797-81ac-4dd0-9bd0-b30d2698f115</key>
+                <string />
+            <key>6fd576db-361c-436e-a420-72ed8c767be5</key>
+                <string />
+            <key>70068dc3-2481-47f1-bea9-4b0acf33ef0d</key>
+                <string />
+            <key>727d9256-8b51-49bd-8338-6cfa69ca600b</key>
+                <string />
+            <key>76055a71-c269-409b-86cb-5777fb52b416</key>
+                <string />
+            <key>7c29ae2e-a9fa-40da-88a0-bf43db7b0da6</key>
+                <string />
+            <key>81c693ea-10be-4eef-b11d-0fce883908e1</key>
+                <string />
+            <key>856f64a7-8500-4d4e-998e-0f3c21557b01</key>
+                <string />
+            <key>88a65c0c-7784-402a-ba4e-44fd3cb4d4a0</key>
+                <string />
+            <key>88d45ab7-139c-4d7a-a50d-8ba23c28cff3</key>
+                <string />
+            <key>8deddc5f-13fd-495d-933c-a0c45f56db49</key>
+                <string />
+            <key>92456ed9-0dd8-4395-a54f-975ce3331687</key>
+                <string />
+            <key>9dd228bb-f693-43af-8fdc-2db3e42ce747</key>
+                <string />
+            <key>a1bdf964-2f77-4ca4-82c7-1429ea51c0a6</key>
+                <string />
+            <key>afa34742-b6d8-4434-8281-bf33caf174f2</key>
+                <string />
+            <key>bf9d3762-180b-47e8-adda-71b4386ead8f</key>
+                <string />
+            <key>c1a73b25-2412-4b29-9ac3-60e1e3a5886f</key>
+                <string />
+            <key>c63d2b73-7b53-4a59-be59-b6c2267a7f66</key>
+                <string />
+            <key>c6f84969-4e21-49b9-a9f7-80d041e36ef1</key>
+                <string />
+            <key>ce1e0c70-8148-4060-9f5a-755c99729c21</key>
+                <string />
+            <key>cf21ce8b-802f-4550-9c32-b0ba50e83be8</key>
+                <string />
+            <key>d3d93cfe-917e-48fb-a124-26abb84175af</key>
+                <string />
+            <key>d87001f3-8408-4a15-ad23-1ca9a24a7e67</key>
+                <string />
+            <key>dc0cc7ba-1435-4e45-bc00-cded1cec511d</key>
+                <string />
+            <key>ded1cc51-1d1f-4eee-b08e-f5d827b436d7</key>
+                <string />
+            <key>e044da54-babd-4cfe-8862-1019d71d3573</key>
+                <string />
+            <key>e5803f6d-8945-4434-8ed4-62a6d00936e3</key>
+                <string />
+            <key>e7a21023-a171-4f2a-b0dd-06348cba59e2</key>
+                <string />
+            <key>e986dc70-b3e4-4f6a-9e48-a5b4fdbcac66</key>
+                <string />
+            <key>f9991869-5c67-4eb5-874b-9c25c607e7e0</key>
+                <string />
+            <key>f9b5a4f1-0016-4162-8cd1-3182c57721da</key>
+                <string />
+            </map>
+        <key>notify</key>
+            <boolean>0</boolean>
+        </map>
+    <key>extraAvs</key>
+        <map>
+        <key>00b62959-33dd-4f30-9e7e-5481eb970f5e</key>
+            <string />
+        <key>00dcf940-a49f-4887-9c97-0055f4c620b2</key>
+            <string />
+        <key>01b2737c-d587-4429-a258-bec4ea59a4da</key>
+            <string />
+        <key>01ed8e98-ba4d-41bf-89f3-2d15ed799170</key>
+            <string />
+        <key>029d0120-7625-4699-8427-4ec55c6fdaa3</key>
+            <string />
+        <key>031ebaed-a4d3-4f1c-9879-43572dc04821</key>
+            <string />
+        <key>0583ecad-32ac-4c91-82f2-5c974f033c7d</key>
+            <string />
+        <key>05c7ea54-1099-4987-8e31-e7f03657e978</key>
+            <string />
+        <key>068ea321-e30f-4543-96f5-4d9165382d19</key>
+            <string />
+        <key>07ebc538-fc5a-48c5-83c1-d8d76245db4b</key>
+            <string />
+        <key>08927c0b-b082-4fc6-b389-503a7d3aabaa</key>
+            <string />
+        <key>0b9831c1-2863-4481-a091-e7722c4a4529</key>
+            <string />
+        <key>0c8064c9-deee-4be2-a0a4-8be2a7109e47</key>
+            <string />
+        <key>0c9c31c3-228a-4032-adbd-aee9c5eaeb49</key>
+            <string />
+        <key>0cc876f0-902c-439b-8d6e-024bf08a1492</key>
+            <string />
+        <key>0d2439e5-5381-44eb-8eb7-59b6d7424ee9</key>
+            <string />
+        <key>0d59276a-3229-4c84-a1a6-4d0e801baf57</key>
+            <string />
+        <key>0d92339b-31c8-4668-a5b3-9c9c4448d66d</key>
+            <string />
+        <key>10698e8c-0dcf-4e34-bf06-9d8695357178</key>
+            <string />
+        <key>1212f432-f39b-4ec9-a18b-e5108841ad17</key>
+            <string />
+        <key>1323cd2d-c678-470b-9666-61e761643361</key>
+            <string />
+        <key>13fde21b-3c79-4756-8f30-129b4e5c25b1</key>
+            <string />
+        <key>15d516cc-bc9b-46db-98b4-043524674c6a</key>
+            <string />
+        <key>1806c6e4-bbe6-489f-98e9-1b143aa08f88</key>
+            <string />
+        <key>18368b0c-df19-49e4-9414-b965363aec96</key>
+            <string />
+        <key>18b5de93-b1f3-4623-afd1-e655303ac823</key>
+            <string />
+        <key>193f0168-9c90-4e57-9466-83d9057233c5</key>
+            <string />
+        <key>19986368-3591-4b90-91ac-9a7e80ecb6af</key>
+            <string />
+        <key>1a894c81-608a-4488-872d-0d44965facfe</key>
+            <string />
+        <key>1c78addb-f7a1-4395-b3c8-879dddc974f9</key>
+            <string />
+        <key>1e3279fa-5672-4a0e-822c-9e3b00c1470f</key>
+            <string />
+        <key>1e53ee39-398c-404e-9710-9ee5104d418e</key>
+            <string />
+        <key>2061409b-0767-42ac-880d-ead36c51710b</key>
+            <string />
+        <key>22decd3d-83aa-4271-97bb-39f10a1d227c</key>
+            <string />
+        <key>23df2a4f-ae7e-44f4-a32c-28e8fb5049b9</key>
+            <string />
+        <key>24898d2d-d6c0-438b-88cb-496eb2aef3b5</key>
+            <string />
+        <key>24d2dba5-e0e9-42f4-99c8-508329496dde</key>
+            <string />
+        <key>252f23d5-8c06-48b7-8a25-7d8c869f9814</key>
+            <string />
+        <key>2567634b-30be-462d-8a84-27d6089f22a0</key>
+            <string />
+        <key>266d3c29-b73a-42fc-8da2-cc81c75872ef</key>
+            <string />
+        <key>26af73f9-f780-4dda-afd4-5b16ab1e4e96</key>
+            <string />
+        <key>26cb70ac-2d1a-48f1-b39a-4ab550a787d4</key>
+            <string />
+        <key>28197790-a43b-45ed-b252-7a596e6c4f5b</key>
+            <string />
+        <key>282d918b-b15a-440e-8766-8f840f5befc1</key>
+            <string />
+        <key>293b99f9-6cb8-4cff-9800-b795aefaf1d7</key>
+            <string />
+        <key>2ec3369f-d579-4173-8dd8-3001c9f5f0cd</key>
+            <string />
+        <key>2f11957b-1174-42a5-b941-c2f6f4456e15</key>
+            <string />
+        <key>316cf290-995e-4f24-b7b3-6dc3b1678240</key>
+            <string />
+        <key>318fdad0-4939-4daa-809f-0225ec4f73ce</key>
+            <string />
+        <key>327ece58-a640-4154-934d-858a8cbbc41f</key>
+            <string />
+        <key>33d7d63d-0d72-4185-aa83-53722d6a5ea8</key>
+            <string />
+        <key>34527f0b-0a7c-46ba-8f40-94e4ab02f0b6</key>
+            <string />
+        <key>3510e222-3bff-4fb1-a06e-5e8d764f3a09</key>
+            <string />
+        <key>3522d06c-95fc-4753-9a2d-7dcf7628b577</key>
+            <string />
+        <key>3601193c-4efc-45f3-a9a8-759f3261b211</key>
+            <string />
+        <key>373d7cbb-c52b-4c3a-9a91-ddd355fa21ca</key>
+            <string />
+        <key>37ae4c3a-c268-4665-866f-9ae720ef6383</key>
+            <string />
+        <key>3a12335c-9d0c-4c86-b0f1-4a78be2a104e</key>
+            <string />
+        <key>3a51c6e2-34d5-44f4-b5f0-0875fd23c944</key>
+            <string />
+        <key>3c86a144-5fa8-4d3f-a0b6-7939d995d2e8</key>
+            <string />
+        <key>3dbe6b1b-6d9b-4cd2-8b7f-a87d6334396c</key>
+            <string />
+        <key>3dfd80f7-39de-47bc-a2ce-b373a31103e2</key>
+            <string />
+        <key>3e232020-0d87-42c0-835e-212fb4cdfcc1</key>
+            <string />
+        <key>3e5d5d13-819e-4cef-8735-ff916ee1c9f5</key>
+            <string />
+        <key>3ec48b51-d29f-4fce-8a71-1fa4836e9fa8</key>
+            <string />
+        <key>40a0b007-30ab-4660-b716-073d97743767</key>
+            <string />
+        <key>410e0d3f-7ede-45d1-8abc-aeda4411b4b7</key>
+            <string />
+        <key>421ba681-0de4-4a46-8911-37f55c11a946</key>
+            <string />
+        <key>422d833f-dca3-40b3-9649-7d3d545e4879</key>
+            <string />
+        <key>4257394b-61f5-4260-aca6-02855c856ae5</key>
+            <string />
+        <key>42608f15-550f-46dc-b564-92b7de1a8cb7</key>
+            <string />
+        <key>4269fb1b-6102-45a0-ae77-7b28c5615e40</key>
+            <string />
+        <key>42db0832-7463-48eb-8a0b-b00360203ae3</key>
+            <string />
+        <key>4372ad1a-e869-4da4-957e-bed2e78fc024</key>
+            <string />
+        <key>442753ad-3677-42d9-90d8-9dc3cf4a2696</key>
+            <string />
+        <key>44b0de1c-5279-49dd-a0e1-8bcb85038e4d</key>
+            <string />
+        <key>475afe37-68ec-4b57-9d56-98da7ef5e1b4</key>
+            <string />
+        <key>487ad83b-0bff-40d4-ad08-78f05ea5a1a1</key>
+            <string />
+        <key>4cbc713a-f30e-4ce4-950d-721f5d31f891</key>
+            <string />
+        <key>4d695a29-1175-4ceb-b7ba-99d9e92831f4</key>
+            <string />
+        <key>4f2eafe4-f9fb-43d6-a54f-3d8e4bdca023</key>
+            <string />
+        <key>50d157aa-b1a4-4064-993a-f5190e5d4cce</key>
+            <string />
+        <key>514326e3-46e3-49de-b920-e44767aace2c</key>
+            <string />
+        <key>5158a078-9669-4a1d-82b0-ee702919f612</key>
+            <string />
+        <key>565c34dc-8d87-4b0b-98ad-39d3fd697996</key>
+            <string />
+        <key>56765434-3811-447b-9d07-b10e5c97610d</key>
+            <string />
+        <key>571de28b-fc41-4038-b397-d616cbe7b532</key>
+            <string />
+        <key>574f36ba-985b-4739-8d5d-6a0494017fd7</key>
+            <string />
+        <key>575b806c-f3ec-4123-99aa-f47efeaf45c6</key>
+            <string />
+        <key>57c7ac97-7a97-440e-ac37-1ee5448099b5</key>
+            <string />
+        <key>592e8f17-b160-4969-b17f-eed2eff10ee3</key>
+            <string />
+        <key>599c4d89-975f-4883-9092-721e3979f1fc</key>
+            <string />
+        <key>5a46984a-58af-4af3-98ec-fb76c40a1860</key>
+            <string />
+        <key>5f902fd2-82fe-46ea-a0e9-9591da450498</key>
+            <string />
+        <key>61a3f934-5fe9-4e5a-a1c5-add8786592a9</key>
+            <string />
+        <key>62330e00-5d86-4fd1-a1db-b4ec9aee0d69</key>
+            <string />
+        <key>63abd2cb-bbdb-4f99-8ffe-185e471458c9</key>
+            <string />
+        <key>64b9e7d0-9822-4145-9537-ab56b90ea854</key>
+            <string />
+        <key>64d8ec97-d082-4e77-8ace-a28d685d2e4a</key>
+            <string />
+        <key>66d0c014-8040-480e-82cd-233d57c6c473</key>
+            <string />
+        <key>67618130-704e-4fe7-9d0c-c1ecc367f6a1</key>
+            <string />
+        <key>692b5de9-a87d-4ced-9560-871887079998</key>
+            <string />
+        <key>699826d1-2eb5-41cd-912f-bf16cde93d74</key>
+            <string />
+        <key>6a1cd81d-609d-4204-98a0-a322cabe9c3e</key>
+            <string />
+        <key>6b54e31f-dc20-4128-b61f-0c85d8cb0d30</key>
+            <string />
+        <key>6c2a8cc4-4119-42f3-bb30-dd547915d883</key>
+            <string />
+        <key>6ce2321f-482d-4c5a-8e18-ddf2bec79530</key>
+            <string />
+        <key>6f65b271-85e6-4158-ae1b-c1d8a99cbc3b</key>
+            <string />
+        <key>6f9d5797-81ac-4dd0-9bd0-b30d2698f115</key>
+            <string />
+        <key>6fd576db-361c-436e-a420-72ed8c767be5</key>
+            <string />
+        <key>70068dc3-2481-47f1-bea9-4b0acf33ef0d</key>
+            <string />
+        <key>70132681-2c9f-415b-a2ce-c9d2884087bb</key>
+            <string />
+        <key>70a5c023-c1a5-48b0-b147-d1d25a6b1fdb</key>
+            <string />
+        <key>711a5196-ae94-421a-b25b-ca76d56abd9d</key>
+            <string />
+        <key>727d9256-8b51-49bd-8338-6cfa69ca600b</key>
+            <string />
+        <key>74642afc-8f6c-4a1e-9c26-719c64d34af1</key>
+            <string />
+        <key>76055a71-c269-409b-86cb-5777fb52b416</key>
+            <string />
+        <key>78b051cd-115e-44ab-ab66-f8359d8e9ce4</key>
+            <string />
+        <key>7937703c-9919-40cb-934b-49127b8bd34b</key>
+            <string />
+        <key>79b85e5d-5d5c-48fe-a486-c6918454118d</key>
+            <string />
+        <key>7b50a85d-5eb1-44e1-8fd4-d720876d3c2f</key>
+            <string />
+        <key>7bda6f1e-8a6f-42cb-8e84-1dee116b93f9</key>
+            <string />
+        <key>7be4ffa4-e03e-4e5b-a685-a4676ab515ff</key>
+            <string />
+        <key>7c29ae2e-a9fa-40da-88a0-bf43db7b0da6</key>
+            <string />
+        <key>7cd6c266-4f8b-40a8-91bd-905cc184bf62</key>
+            <string />
+        <key>7d5ee54f-47d1-4183-9dff-02f73848029e</key>
+            <string />
+        <key>80ddfce7-9e30-40b2-95f3-e510f8541966</key>
+            <string />
+        <key>81c693ea-10be-4eef-b11d-0fce883908e1</key>
+            <string />
+        <key>82f553c1-a899-49a5-acf0-923f49a98fb7</key>
+            <string />
+        <key>8409bd07-baa8-4f8b-86a9-fbefc5da152c</key>
+            <string />
+        <key>8426f433-38fd-4dde-b360-a5707b9157fc</key>
+            <string />
+        <key>846c8daf-60d9-4922-82ef-181cab592de7</key>
+            <string />
+        <key>856f64a7-8500-4d4e-998e-0f3c21557b01</key>
+            <string />
+        <key>86158b80-c6be-42cf-9f81-d9c94e525ac8</key>
+            <string />
+        <key>86809634-9c14-4a52-b172-2472372f5ab8</key>
+            <string />
+        <key>86e6df7d-557e-46c4-bd88-bd13eb89d01b</key>
+            <string />
+        <key>876d2e4c-396d-4d9d-b173-85cdc8456499</key>
+            <string />
+        <key>884760ae-ffc4-4eb7-9099-07b55400c71c</key>
+            <string />
+        <key>88a65c0c-7784-402a-ba4e-44fd3cb4d4a0</key>
+            <string />
+        <key>88d45ab7-139c-4d7a-a50d-8ba23c28cff3</key>
+            <string />
+        <key>89137c88-ecb0-44b4-a27c-d7e1fe35d7fa</key>
+            <string />
+        <key>89ba820f-0b55-48a4-b79e-3705255e6eb7</key>
+            <string />
+        <key>8a667f16-5185-4607-bb91-f581dd71886d</key>
+            <string />
+        <key>8b09c7cd-ef06-4596-984f-be644443c6eb</key>
+            <string />
+        <key>8deddc5f-13fd-495d-933c-a0c45f56db49</key>
+            <string />
+        <key>9033feb2-b415-4858-b7c7-c2107218f6c1</key>
+            <string />
+        <key>923616ff-ea3c-4dc6-aa84-289dbf676663</key>
+            <string />
+        <key>92456ed9-0dd8-4395-a54f-975ce3331687</key>
+            <string />
+        <key>9413129c-175d-474b-b93a-ddbcb3640860</key>
+            <string />
+        <key>94b609c7-1e2f-401e-a020-15014832856a</key>
+            <string />
+        <key>957f7de6-bacc-4948-a803-f2f0fc47eaa5</key>
+            <string />
+        <key>95ea177f-f068-493d-b28b-474a6fac6416</key>
+            <string />
+        <key>982564db-d71e-48f6-b3d8-de01e065aecc</key>
+            <string />
+        <key>9928e6f6-10b0-4ce6-a5fc-daf406ed67a5</key>
+            <string />
+        <key>9a1c37ba-5afa-4291-a0d6-cdf294041cdd</key>
+            <string />
+        <key>9a20d084-9733-44c8-9acd-24b54593b8cd</key>
+            <string />
+        <key>9c55bfa1-f134-4051-98ee-ea62487dd634</key>
+            <string />
+        <key>9dd228bb-f693-43af-8fdc-2db3e42ce747</key>
+            <string />
+        <key>9dea95a0-fcdc-4cc5-8fd7-327ed1448963</key>
+            <string />
+        <key>9e64a9bd-1224-4493-b21f-767c046b77ca</key>
+            <string />
+        <key>9ecd046d-584f-401a-8d25-1d707ab79616</key>
+            <string />
+        <key>9f40067b-3217-4b6b-a4cb-7e59582c3576</key>
+            <string />
+        <key>9f4e8f2a-3b32-4e87-ae8f-1666bf9fa425</key>
+            <string />
+        <key>9fc94859-5adf-4dc8-a743-95deb9163e3e</key>
+            <string />
+        <key>a0b76050-2af2-4cf7-84d5-17b5a8e92aba</key>
+            <string />
+        <key>a17ac877-b462-4460-961f-53a7996b5c0b</key>
+            <string />
+        <key>a1bdf964-2f77-4ca4-82c7-1429ea51c0a6</key>
+            <string />
+        <key>a218e5bd-8d96-4468-85db-a84667c91e67</key>
+            <string />
+        <key>a284d4de-cc80-404f-b3ad-0a93d8d54318</key>
+            <string />
+        <key>a6c53bda-bce2-47c0-a5a8-ddbf91dcdfc3</key>
+            <string />
+        <key>a7a24abc-9cd6-4d0d-8921-6409adb93e33</key>
+            <string />
+        <key>a835b1e8-d5f5-469d-a010-92e06e5237ea</key>
+            <string />
+        <key>aabdd9cd-a439-4011-88b9-a7330cd88cad</key>
+            <string />
+        <key>ab43fd95-ed1e-4674-88f6-d83f3c99e57c</key>
+            <string />
+        <key>ab5bf41e-22c4-4027-988c-4c5707a52f85</key>
+            <string />
+        <key>ab99801c-5605-42a0-acb2-93f26a3f036b</key>
+            <string />
+        <key>abe0a03f-cb16-4eaf-a707-7d38589088b0</key>
+            <string />
+        <key>aca9d9ac-29ed-44ea-9550-a7869dc7e765</key>
+            <string />
+        <key>ad0b4d88-b0d1-49b2-97b4-d7255ee1753b</key>
+            <string />
+        <key>af35426a-5459-4008-a088-4e13d631bbd1</key>
+            <string />
+        <key>afa34742-b6d8-4434-8281-bf33caf174f2</key>
+            <string />
+        <key>b1e052bc-a4e1-46c6-8d8d-5a9cc8e08bb2</key>
+            <string />
+        <key>b2bebb21-ff7b-42ff-99f5-54a44fa41ba8</key>
+            <string />
+        <key>b35a3ac6-6a7a-4a40-858a-5fc050415aa1</key>
+            <string />
+        <key>b486d0f2-6009-4baa-852e-0ff8b6793d31</key>
+            <string />
+        <key>b4d7c2c7-f02e-4ed5-9c05-10948331704b</key>
+            <string />
+        <key>ba314cf0-562d-4d31-8281-ba6a7920be75</key>
+            <string />
+        <key>ba8f64e1-8d1b-4ee0-aaaf-16952455097d</key>
+            <string />
+        <key>be609e90-d6f4-43c5-aab9-b5268a86abb7</key>
+            <string />
+        <key>bf800da4-d3cc-4dd0-8890-636398ba3fc8</key>
+            <string />
+        <key>bf8f6913-e485-41c4-a53e-60cc7cb23b5b</key>
+            <string />
+        <key>bf9d3762-180b-47e8-adda-71b4386ead8f</key>
+            <string />
+        <key>c07990bf-db2f-4fdb-a1b4-f33950a55b96</key>
+            <string />
+        <key>c1a73b25-2412-4b29-9ac3-60e1e3a5886f</key>
+            <string />
+        <key>c1ad4b60-c5be-42be-9d7b-3bf0bd0e38a6</key>
+            <string />
+        <key>c1f1be9a-bff3-4d51-b038-f5a41e6ee57e</key>
+            <string />
+        <key>c20ecd04-aa32-4e82-b302-3e3acdf3ad84</key>
+            <string />
+        <key>c3afaabd-d457-4659-a471-d8d4245e18a6</key>
+            <string />
+        <key>c42206ae-ea6a-4fe6-9d11-d8b856cedc07</key>
+            <string />
+        <key>c5f366df-c57c-4369-841f-d045870789cf</key>
+            <string />
+        <key>c63d2b73-7b53-4a59-be59-b6c2267a7f66</key>
+            <string />
+        <key>c6f84969-4e21-49b9-a9f7-80d041e36ef1</key>
+            <string />
+        <key>c78bdedd-145d-4ad6-810e-3116017a9639</key>
+            <string />
+        <key>c8922054-4442-4e93-adb4-cdff34cd83d1</key>
+            <string />
+        <key>cb1ed5d7-9a4d-4c5c-8c7c-a13f80856aa6</key>
+            <string />
+        <key>cb3a395c-fb0d-474b-bc72-ecfb7e1e3e75</key>
+            <string />
+        <key>cd527b05-0d30-46a7-b437-ca9e4cdad39a</key>
+            <string />
+        <key>ce1e0c70-8148-4060-9f5a-755c99729c21</key>
+            <string />
+        <key>cf21ce8b-802f-4550-9c32-b0ba50e83be8</key>
+            <string />
+        <key>cf905995-8a72-45ef-85ad-e35ca8620f96</key>
+            <string />
+        <key>d0a342ec-16a6-400c-8c9c-24df1bee04c0</key>
+            <string />
+        <key>d173fd50-6d10-4600-8e1e-f053f80f6bb9</key>
+            <string />
+        <key>d3d93cfe-917e-48fb-a124-26abb84175af</key>
+            <string />
+        <key>d3e418fe-9e19-4d88-a45c-5bded2c110c1</key>
+            <string />
+        <key>d4f7b518-ad6f-48a3-a24b-11fe3d3d5404</key>
+            <string />
+        <key>d5854edb-123e-438b-ba9b-cc0e02839d8b</key>
+            <string />
+        <key>d87001f3-8408-4a15-ad23-1ca9a24a7e67</key>
+            <string />
+        <key>d8ff8dde-5862-4305-836b-13e62db08672</key>
+            <string />
+        <key>d90f29bc-a275-4e4e-9b97-ec81f35c0c65</key>
+            <string />
+        <key>d9bdd191-e145-4597-a19f-1eab38ce678e</key>
+            <string />
+        <key>dbbd6099-f5f9-4bef-9ad6-2401d4e4cc10</key>
+            <string />
+        <key>dc0cc7ba-1435-4e45-bc00-cded1cec511d</key>
+            <string />
+        <key>dd4f9bab-e213-43c6-80b0-7bd42c26b94e</key>
+            <string />
+        <key>dec13c48-b46e-4583-a886-4fa0877c5064</key>
+            <string />
+        <key>ded1cc51-1d1f-4eee-b08e-f5d827b436d7</key>
+            <string />
+        <key>df124e28-7239-4cd4-a885-68411112f3e5</key>
+            <string />
+        <key>e044da54-babd-4cfe-8862-1019d71d3573</key>
+            <string />
+        <key>e060852b-23cd-4d69-b99d-7707c4e2a0d1</key>
+            <string />
+        <key>e1cc2ad5-a3c8-4209-971a-7ada2e3b3d3e</key>
+            <string />
+        <key>e257fa7f-ac6a-4996-8305-41b3d29bfafc</key>
+            <string />
+        <key>e280f9ce-edbc-4f46-875f-e8ca7363f8af</key>
+            <string />
+        <key>e52799bd-6cea-49f2-8fae-7a0dc7174e8c</key>
+            <string />
+        <key>e5803f6d-8945-4434-8ed4-62a6d00936e3</key>
+            <string />
+        <key>e73fcbe7-f62b-44c8-8140-c942ce10f680</key>
+            <string />
+        <key>e7a21023-a171-4f2a-b0dd-06348cba59e2</key>
+            <string />
+        <key>e8586323-5890-476d-8d29-9e1a4aaf2f71</key>
+            <string />
+        <key>e93f9211-f1a3-4fd0-8cb2-987014db15ce</key>
+            <string />
+        <key>e986dc70-b3e4-4f6a-9e48-a5b4fdbcac66</key>
+            <string />
+        <key>ec5025ee-6d9a-4a8f-9a38-2d60f7773633</key>
+            <string />
+        <key>ec565ae9-25d2-4d64-9141-44e3f2edb55f</key>
+            <string />
+        <key>eeac1c1b-ea18-4083-885b-6a3f53623d9f</key>
+            <string />
+        <key>ef1b52d3-6867-4efb-9e6a-68fde672d653</key>
+            <string />
+        <key>f07569fe-90cf-4c44-9077-fa861a27aeec</key>
+            <string />
+        <key>f122e92a-00f2-4149-a153-2203bf0de094</key>
+            <string />
+        <key>f3534594-2c39-4795-8e92-55c26b62aeba</key>
+            <string />
+        <key>f5308347-44c6-49fa-92ba-256962857a2e</key>
+            <string />
+        <key>f655b6eb-28f1-4702-8bd2-ed7d4dbede77</key>
+            <string />
+        <key>f905b11a-0e28-47b6-be92-781da1e890ae</key>
+            <string />
+        <key>f937247f-7a86-47c6-bb39-beca296d4475</key>
+            <string />
+        <key>f9991869-5c67-4eb5-874b-9c25c607e7e0</key>
+            <string />
+        <key>f9b5a4f1-0016-4162-8cd1-3182c57721da</key>
+            <string />
+        <key>fa3de285-d9e7-480b-a815-3f5249ae5681</key>
+            <string />
+        <key>fa4388b5-d120-4552-9d01-8518d4d44e72</key>
+            <string />
+        <key>ff1877e6-57c7-42c9-8065-6ea5a7933280</key>
+            <string />
+        <key>ff8bae09-991b-4e26-8a0b-c835e66a126f</key>
+            <string />
+        </map>
+    <key>globalSettings</key>
+        <map>
+        <key>defaultColor</key>
+            <array>
+                <real>0.5</real>
+                <real>0.5</real>
+                <real>0.5</real>
+                <real>1</real>
+            </array>
+        </map>
+    </map>
+</llsd>
