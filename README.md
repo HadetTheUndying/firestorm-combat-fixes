@@ -11,7 +11,7 @@ On Linux if you kept the default user install path:
 
 `~/firestorm/skins/default/xui/en`
 
-The other file is for a somewhat up to date version of the contact sets we pass around place it here.
+The other file is for a somewhat up-to-date version of the contact sets we pass around.
 
 Place it inside this directory.
 
