@@ -14,7 +14,7 @@ On Linux if you kept the default user install path:
 
 **Contact Sets**
 
-Place the settings_friends_groups.xml file in one of these directories.
+Place the settings_friends_groups.xml file in this directory.
 
 
 Windows:
