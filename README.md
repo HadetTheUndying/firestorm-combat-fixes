@@ -12,7 +12,7 @@ On Linux if you kept the default user install path:
 `~/firestorm/skins/default/xui/en`
 
 
-#Contact Sets
+**Contact Sets**
 
 Place the settings_friends_groups.xml file in one of these directories.
 
